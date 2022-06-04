@@ -1,7 +1,7 @@
 # rpi-plant-project
 An automatic plant watering system created with Python and a Raspberry Pi.
 
-You can read more about how I created this project [here](https://blog.alanconstantino.com/articles/water-your-plant-using-a-raspberry-pi-and-python.html).
+You can read more about how I created this project [here](https://dev.to/alanjc/water-your-plant-using-a-raspberry-pi-and-python-2ddb).
 
 <img src="https://raw.githubusercontent.com/AlanConstantino/personal-blog/master/images/rpi-plant-article/complete-water-pump.jpg">
 
